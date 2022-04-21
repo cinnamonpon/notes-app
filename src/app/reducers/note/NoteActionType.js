@@ -1,0 +1,4 @@
+export const GET_NOTES = 'GET_NOTES';
+export const GET_NOTES_SUCCESS = 'GET_NOTES_SUCCESS';
+export const CREATE_NOTE = 'CREATE_NOTE';
+export const CREATE_NOTE_SUCCESS = 'CREATE_NOTE_SUCCESS';

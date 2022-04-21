@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@components/*": ["./src/app/components/*"],
+      "@config/*": ["./src/app/config/*"],
+      "@constants/*": ["src/app/constants/*"],
+      "@helpers/*": ["./src/app/helpers/*"],
+      "@reducers/*": ["./src/app/reducers/*"],
+      "@shared/*": ["./src/app/shared/*"],
+      "@theme/*": ["./src/app/theme/*"],
+      "@app/*": ["./src/app/*"],
+    }
+  }
+}
